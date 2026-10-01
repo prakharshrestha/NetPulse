@@ -1,0 +1,36 @@
+# Data files (auto-generated at runtime)
+data/
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (cleanup artifacts)
+node_modules/
+package.json
+package-lock.json
+
+# Diagram intermediates
+progress/*.png
